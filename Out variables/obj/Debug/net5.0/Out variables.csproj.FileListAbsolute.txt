@@ -1,0 +1,16 @@
+D:\work\C# 7 New Featrues\Out variables\Out variables\bin\Debug\net5.0\Out variables.exe
+D:\work\C# 7 New Featrues\Out variables\Out variables\bin\Debug\net5.0\Out variables.deps.json
+D:\work\C# 7 New Featrues\Out variables\Out variables\bin\Debug\net5.0\Out variables.runtimeconfig.json
+D:\work\C# 7 New Featrues\Out variables\Out variables\bin\Debug\net5.0\Out variables.runtimeconfig.dev.json
+D:\work\C# 7 New Featrues\Out variables\Out variables\bin\Debug\net5.0\Out variables.dll
+D:\work\C# 7 New Featrues\Out variables\Out variables\bin\Debug\net5.0\ref\Out variables.dll
+D:\work\C# 7 New Featrues\Out variables\Out variables\bin\Debug\net5.0\Out variables.pdb
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\Out variables.csproj.AssemblyReference.cache
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\Out variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\Out variables.AssemblyInfoInputs.cache
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\Out variables.AssemblyInfo.cs
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\Out variables.csproj.CoreCompileInputs.cache
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\Out variables.dll
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\ref\Out variables.dll
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\Out variables.pdb
+D:\work\C# 7 New Featrues\Out variables\Out variables\obj\Debug\net5.0\Out variables.genruntimeconfig.cache

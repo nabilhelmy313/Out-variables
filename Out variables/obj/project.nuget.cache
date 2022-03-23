@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5EfPDvRxax1Vzf+S+WDjlfICzaBjR287jIRfXfBa9e+PLdy4O9W6jp8pyH5RT9hY7IsX8fF6rq86zuBH0kTjBQ==",
+  "success": true,
+  "projectFilePath": "D:\\work\\C# 7 New Featrues\\Out variables\\Out variables\\Out variables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nabil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
